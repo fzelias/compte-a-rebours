@@ -1,0 +1,1 @@
+section{height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column;width:100%;font-family:Oleo Script Swash Caps,cursive}.header{font-size:100px;text-align:center}.counter{font-size:200px}.counter h2{font-size:180px}@media screen and (max-width:768px){section{height:auto}.header{font-size:50px}.counter h2{font-size:70px}}
